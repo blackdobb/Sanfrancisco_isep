@@ -1,0 +1,34 @@
+2537740,2537740,,Stanford Caltrain,,37.438516,-122.156443,2277,,0,,America/Los_Angeles,,,0
+70011,70011,,San Francisco Caltrain,,37.77639,-122.394992,2275,,0,,America/Los_Angeles,,,1
+70021,70021,,22nd Street Caltrain,,37.757599,-122.39188,2275,,0,,America/Los_Angeles,,,2
+70031,70031,,Bayshore Caltrain,,37.709537,-122.401586,2275,,0,,America/Los_Angeles,,,1
+70041,70041,,South San Francisco Caltrain,,37.65589,-122.40487,2275,,0,,America/Los_Angeles,,,2
+70051,70051,,San Bruno Caltrain,,37.631128,-122.411968,2275,,0,,America/Los_Angeles,,,1
+70061,70061,,Millbrae Caltrain,,37.59988,-122.386647,2276,,0,,America/Los_Angeles,,,1
+70071,70071,,Broadway Caltrain,,37.58764,-122.36265,2276,,0,,America/Los_Angeles,,,2
+70081,70081,,Burlingame Caltrain,,37.580197,-122.3449,2276,,0,,America/Los_Angeles,,,1
+70091,70091,,San Mateo Caltrain,,37.568087,-122.323851,2276,,0,,America/Los_Angeles,,,1
+70101,70101,,Hayward Park Caltrain,,37.552938,-122.309338,2276,,0,,America/Los_Angeles,,,1
+70111,70111,,Hillsdale Caltrain,,37.537868,-122.297349,2276,,0,,America/Los_Angeles,,,1
+70121,70121,,Belmont Caltrain,,37.52089,-122.275738,2276,,0,,America/Los_Angeles,,,1
+70131,70131,,San Carlos Caltrain,,37.50805,-122.26015,2276,,0,,America/Los_Angeles,,,1
+70141,70141,,Redwood City Caltrain,,37.486159,-122.231936,2276,,0,,America/Los_Angeles,,,1
+70151,70151,,Atherton Caltrain,,37.464645,-122.19779,2277,,0,,America/Los_Angeles,,,2
+70161,70161,,Menlo Park Caltrain,,37.454856,-122.182297,2277,,0,,America/Los_Angeles,,,1
+70171,70171,,Palo Alto Caltrain,,37.443475,-122.164614,2277,,0,,America/Los_Angeles,,,1
+70191,70191,,California Ave Caltrain,,37.429365,-122.141927,2277,,0,,America/Los_Angeles,,,1
+70201,70201,,San Antonio Caltrain,,37.407323,-122.107069,2277,,0,,America/Los_Angeles,,,1
+70211,70211,,Mountain View Caltrain,,37.394459,-122.075956,2277,,0,,America/Los_Angeles,,,1
+70221,70221,,Sunnyvale Caltrain,,37.378916,-122.031372,2277,,0,,America/Los_Angeles,,,1
+70231,70231,,Lawrence Caltrain,,37.370598,-121.997114,2272,,0,,America/Los_Angeles,,,1
+70241,70241,,Santa Clara Caltrain,,37.353238,-121.93608,2272,,0,,America/Los_Angeles,,,1
+70251,70251,,College Park Caltrain,,37.342384,-121.9146,2272,,0,,America/Los_Angeles,,,2
+70261,70261,,San Jose Diridon Caltrain,,37.329239,-121.903011,2272,,0,,America/Los_Angeles,,,1
+70271,70271,,Tamien Caltrain,,37.31174,-121.883721,2272,,0,,America/Los_Angeles,,,1
+70281,70281,,Capitol Caltrain,,37.284102,-121.841955,2273,,0,,America/Los_Angeles,,,1
+70291,70291,,Blossom Hill Caltrain,,37.252422,-121.797643,2273,,0,,America/Los_Angeles,,,1
+70301,70301,,Morgan Hill Caltrain,,37.129363,-121.650244,2274,,0,,America/Los_Angeles,,,1
+70311,70311,,San Martin Caltrain,,37.085225,-121.610049,2274,,0,,America/Los_Angeles,,,1
+70321,70321,,Gilroy Caltrain,,37.003538,-121.566088,2274,,0,,America/Los_Angeles,,,1
+777402,777402,,San Jose Caltrain Station,,37.330196,-121.901985,,,0,,America/Los_Angeles,,,1
+777403,777403,,Tamien Caltrain Station,,37.311638,-121.883403,,,0,,America/Los_Angeles,,,1
